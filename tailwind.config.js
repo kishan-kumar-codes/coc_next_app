@@ -79,4 +79,5 @@ module.exports = {
     },
   },
   plugins: [require('tailwind-scrollbar','@tailwindcss/line-clamp')],
-}
+};
+
